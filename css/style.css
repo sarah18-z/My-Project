@@ -54,7 +54,7 @@
   /* End Global Rules */
   /* Start navbar */
 .header{
-    background-image: url("/img/background1.png");
+    background-color: #FCF7ED;
     background-repeat: no-repeat;
     background-size: cover;
     height: auto;
@@ -219,7 +219,7 @@
 /* End Home page */
 /* Start Menu */
 .menu {
-    background-image: url("/img/background2.png");
+    background-color: #8DA58F;
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 5%;
@@ -281,7 +281,7 @@
 /* End Menu */
 /* Start Meet */
 .meet {
-    background-image: url("/img/background1.png");
+    background-color: #FCF7ED;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -324,7 +324,7 @@
 /* End Meet */
 /* Start Order and delivery */
 .order{
-    background-image: url("/img/background2.png");
+    background-color: #8DA58F;
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 5%;
